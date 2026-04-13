@@ -140,17 +140,6 @@ python main.py
 
 ```
 
-## How It Works
-
-1. **File Creation**: Automatically creates `expense_data.csv` if it doesn't exist
-2. **Data Entry**: Users input expense details (date, category, amount, note)
-3. **Storage**: All data is appended to CSV file
-4. **Analysis**: 
-   - Monthly total calculates sum for specified month
-   - Highest spending identifies category with maximum expenses
-5. **Visualization**: Pie chart displays category-wise percentage distribution
-
-
 
 ## Expected Outcomes
 
